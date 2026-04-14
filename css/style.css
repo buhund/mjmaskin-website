@@ -92,8 +92,63 @@ textarea {
   max-width: 80vw;
 }
 
-.navbar-top{position:fixed;width:100%;z-index:1}.w3-top{top:0}.w3-bottom{bottom:0}
+/*
+CSS classes in use
+.container
+.section-heading
+.card-grid
+.button
+.button-primary
+.button-secondary
+.page-hero
+.contact-cta
+.project-item
+.service-item
+.rental-item
+*/
 
+/* 1. Reset / base */
+/* 2. Variables */
+/* 3. Typography */
+/* 4. Layout */
+/* 5. Header */
+/* 6. Navigation */
+.navbar-top{position:fixed;width:100%;z-index:1}
+.w3-top{top:0}
+.w3-bottom{bottom:0}
+
+ul.nav-menu{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #cccccc;
+
+}
+
+ul li{
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #111111;
+  color: #fff;
+}
+/* 7. Buttons */
+/* 8. Hero */
+/* 9. Cards */
+/* 10. Sections */
+/* 11. Forms */
+/* 12. Footer */
+/* 13. Utility classes */
 
 
 
