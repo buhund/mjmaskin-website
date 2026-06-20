@@ -19,7 +19,7 @@ Unless explicitly stated, the GPL-3.0 license does not apply to the following:
 - design assets
 - other visual or media content
 
-These assets are the property of **MJ Maskin**, **Eirtek**, and/or their respective rights holders.
+These assets are the property of **Johnsen Maskin**, **MJ Bygg & Maskin**, **Eirtek**, and/or their respective rights holders.
 
 Third-party assets included in this repository remain the property of their original owners and are subject to their own license terms. Inclusion in this project does not grant any right to reuse, redistribute, or modify such materials beyond what is permitted by applicable law or the asset’s own license.
 
