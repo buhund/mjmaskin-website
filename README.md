@@ -1,6 +1,6 @@
-# MJ Mmaskin
+# Johnsen Maskin
 
-Website for MJ Maskin og bygg
+Website for Johnsen Maskin
 
 
 
